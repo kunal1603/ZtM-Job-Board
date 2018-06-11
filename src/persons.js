@@ -1658,6 +1658,23 @@ export const persons = [
       state: "",
       country: "Taiwan (Willing to relocate!)"
     }
-  }
+  },
+  
+   {
+    id: 98,
+    name: "Kunal Jain",
+    img: "",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/kunal-jain-a57839150/",
+      github: "https://github.com/kunal1603"
+    },
+    jobTitle: "Full-Stack Developer",
+    location: {
+      city: "Udaipur",
+      state: "Rajasthan",
+      country: "India"
+    }
+  },
 
 ];
